@@ -30,7 +30,7 @@ PCB:
 I used KMK for everything. I was originally planning to do QMK, but I felt like it would take too long to get the custom profile approved (Im doing this way too late)
 
 -OLED screen will display date and time, a small clock wouldn't be a bad addition to my setup
--4 Keys that will be bound to a key on my regular keyboard and then be used to turn things like the headlights of a car, or if iwant to turn onthe wipers, etc. Can be very easily changed by programming
+-4 Keys that will be bound to a key on my regular keyboard and then be used to turn things like the headlights of a car, or if I want to turn onthe wipers, etc in game. Can be very easily changed by programming. To be finalized when I get the box built. 
 
 ##BOM: 
 The parts needed:
