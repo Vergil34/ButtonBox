@@ -1,5 +1,5 @@
 # ButtonBox
-Hack Club Blueprint Starter Project. This is my first time really working in depth with making a pcb or CADing something to actually make it in real life, so it was definitely a fun experience. I plan to use this as a small button box for sim racing, but it can probably be easily reprogrammed to be a regular macro pad.
+Hack Club Blueprint Starter Project. This is my first time working in-depth with creating a PCB or CADing something to actually bring it to life, so it was definitely a fun experience. I plan to use this as a small button box for sim racing, but it can probably be easily reprogrammed to be a regular macro pad.
 
 ## Features:
 - 3D printed case. I did something pretty simple since I'm new to cadding
@@ -8,9 +8,9 @@ Hack Club Blueprint Starter Project. This is my first time really working in dep
 - 4 keys
 
 ## CAD
-Held together with 4 M3x16mm screws, the pcb doesnt have too much space to move around, so I didnt mount it with a screw. 2 pieces for the print, top cover, and bottom holder.
+Held together with 4 M3x16mm screws +  4x M3x5mx4mm heatset inserts, the pcb doesnt have too much space to move around, so I didn't mount it with a screw. 2 pieces for the print, top cover, and bottom holder.
 
-IMAGE HERE
+<img src=assets/Final.png alt="Final" width="500"/>
 
 Used Fusion 360, hooray for school accounts
 
@@ -18,10 +18,12 @@ Used Fusion 360, hooray for school accounts
 Used KICAD, and wasnt as complicated as I thought it was gonna be originally.
 
 Schematic:
-IMAGE HERE
 
-PCB
-IMAGE HERE
+<img src=assets/sch.png alt="Schematic" width="500"/>
+
+PCB:
+
+<img src=assets/PCB.png alt="PCB" width="500"/>
 
 ## Firmware
 
